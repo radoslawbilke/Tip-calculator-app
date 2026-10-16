@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Tip-calculator-app/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Tip-calculator-app/)
 
 ## My process
 
